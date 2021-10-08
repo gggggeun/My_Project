@@ -13,6 +13,6 @@
 - [Titanic_app](https://github.com/gggggeun/Project3_Titanic_app.git)
 
 ## Project 2
-- 
+- [Hotel_Booking_Cancellation_Prediction](https://github.com/gggggeun/Project2_Hotel_Booking_Cancellation_Prediction.git)
 
 ## Project 1
