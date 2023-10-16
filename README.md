@@ -1,6 +1,6 @@
 # My_Projects 
 
-### 📽 서울시민 카드소비패턴 분석
+### 💳 서울시민 카드소비패턴 분석
 - [Facial_Emotion_Recognition_With_Movie_Recommendation]
   (https://github.com/gggggeun/Card_Consumption.git)
 
